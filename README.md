@@ -1,8 +1,8 @@
 # MaNEKO_DEV
-Name: MaNEKO
-Token ticket: NEK
-Decimals: 6
-Contract: 0x88888858c396847ffdbf3efc218cf3f06256292a
+- Name: MaNEKO
+- Token ticket: NEK
+- Decimals: 6
+- Contract: 0x88888858c396847ffdbf3efc218cf3f06256292a
 
 
 
